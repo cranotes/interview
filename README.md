@@ -58,7 +58,16 @@ Serious liver injury, and advanced liver diseases of Child-Pugh class B and C
 ```
 ## What is a monitoring plan? 
 ```
-The clinical monitoring plan basically sets out the monitoring strategies and the monitoring responsibilities of all parties involved in the clinical trial. It also stipulates the frequency of visits, various monitoring methods to be used, and the rationale for their use. It also goes further to describe the monitoring procedures, types of visits, what is involved in the conduct of those visits, and the quantity or percentage of each type of document to be monitored. These procedures can be further defined on a protocol basis depending on the purpose, design, size, complexity, and primary outcome measures of the trial. There is also usually an area of focus in the monitoring plan that goes over protocol compliance, SAE reporting, safety, adverse event reporting, quality assurance, and site assessment. 
+The clinical monitoring plan basically sets out the monitoring strategies and the monitoring 
+responsibilities of all parties involved in the clinical trial. 
+It also stipulates the frequency of visits, various monitoring methods to be used, 
+and the rationale for their use. It also goes further to describe the monitoring procedures, 
+types of visits, what is involved in the conduct of those visits, 
+and the quantity or percentage of each type of document to be monitored. 
+These procedures can be further defined on a protocol basis depending on the purpose, design, size, 
+complexity, and primary outcome measures of the trial. 
+There is also usually an area of focus in the monitoring plan that goes over protocol compliance, 
+SAE reporting, safety, adverse event reporting, quality assurance, and site assessment. 
 
 ```
 
