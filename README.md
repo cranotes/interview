@@ -71,5 +71,50 @@ SAE reporting, safety, adverse event reporting, quality assurance, and site asse
 
 ```
 
+## What is an SAE and what are the 6 criteria that determine an SAE?
+```
+An SAE is any untoward medical occurrence that could lead to any of the following:
 
+Hospitalization or prolong an existing hospitalization
+Death
+Birth Defect /Congenital Anomaly
+Disability
+Life threatening 
+Anything that PI feels is life threatening. 
 
+```
+## If a subject does not sign ICF what will you do? 
+```
+I will ask the site to immediately contact the subject and have the subject come in to be re-consented. 
+At that time, the subject will have to sign and date the ICF. 
+All study procedures should be put on hold until the subject has signed the ICF. 
+```
+## What is the monitor’s involvement in subject enrollment? 
+```
+The monitor helps the site whenever they are not enrolling enough patients for the study. 
+They can help by providing advice on ways to recruit like advertisement methods, 
+or subject reach out to subjects in the sites database that have the indication or had a past history of the indication. 
+Once a subject is enrolled, the monitor is to go out to the site 
+and review the data of the subject to ensure they are actually eligible for the study. 
+```
+## What is FDA 1571: 
+```
+The 1571 is the Investigational New Drug Application. 
+It provides the structure to present the information about the proposed research.
+```
+## What is FDA 1572? 
+```
+The 1572 is the statement of investigator form, 
+it is an agreement signed by the investigator to provide certain information to the sponsor 
+and assure that he/she will comply with FDA regulations related to 
+the conduct of the clinical investigation of an investigation drug or biologic. 
+```
+## What is a FDA 483? 
+```
+483s are usually issued whenever there is an FDA inspection at a site and there are major findings. 
+If major findings are found during the audit inspection, the FDA will issue a 483. 
+```
+## What is FDA 3674: 
+```
+This form certifies that the study is registered in the national database of clinical trials
+```
