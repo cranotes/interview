@@ -234,4 +234,50 @@ Ensure A signed Confidential Disclosure Agreement (CDA) is available.
 The date, time and agenda of PSSV are confirmed with the site in a confirmation letter.
 
 Is CTMS updated?
+```
+## How do you prepare for SIV
+```
+Forward site staff training materials to study site.
+
+Has the Delegation of Authority (DOA) been provided to the site prior to the Site Initiation Visit (SIV).
+
+Will the site use the Learning Management System (LMS) and/or the paper process.
+
+Have the Training Log (TL) and Site Signature Log (SSL) been provided to the site prior to the Site
+Initiation Visit (SIV)?
+
+CTMS updated to include all investigational site staff contact information at a minimum
+
+Confirm receipt of all required study documents and supplies (e.g., study supplies, study equipment,
+lab kits, Site IP Procedures Manual, Trial Center File, vendor manuals).
+
+Confirm account creation/activation for key investigational study staff at a minimum.
+
+Any additional study specific activities required per Monitoring Guidelines conducted prior to the
+initiation visit?
+
+The date, time and agenda of initiation visit are confirmed with the site in a confirmation letter?
+
+```
+## How do you prepare for IMV?
+```
+Action items (AIs)/outstanding findings from the previous visit or contact reviewed.
+
+All analytical reports are reviewed as required per Monitoring Guidelines 
+(e.g., EDC Reports, IntraLinks access report, laboratory kit inventory)
+
+Prior to the on-site visit, any additional study specific activities as required per Monitoring Guidelines are performed.
+
+The date, time and agenda of monitoring visit are confirmed with the site in a confirmation letter.
+
+
+
+
+
+
+
+
+```
+
+
 
