@@ -152,7 +152,21 @@ and the duties that have been delegated to them by the Principal Investigator.
 -Staff Signature and Initials
 -Start Date of Responsibilities 
 -End Date of Responsibilities
+```
 
+## What are common errors you come across when reviewing an Informed consent form
+```
+An unapproved/expired version of the consent form was used.
 
+The full consent form was not used (i.e., consent form is missing pages)
 
+Information in the consent was crossed out or altered in any way not approved by the IRB
+
+The person who obtained consent was not approved to do so per IRB-approved protocol
+
+All required signatures were not obtained3 (i.e., participant, person obtaining consent, parent, second parent if required, LAR, witness)
+
+Not all sections of the consent form were completed (i.e., check boxes unchecked, initials/signatures missing for optional procedures)
+
+Participant’s printed name missing on the form
 ```
