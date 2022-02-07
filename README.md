@@ -118,3 +118,27 @@ If major findings are found during the audit inspection, the FDA will issue a 48
 ```
 This form certifies that the study is registered in the national database of clinical trials
 ```
+
+## Name 10 essential documents found in the Investigator Site File (ISF)
+```
+-Investigator’s Brochure (IB) – outlines scientific information about the investigational product.
+-Study protocol – this includes the current protocol as well as any amendments and historical protocols.
+-Informed consent documentation – any information given to the trial subject (patient). 
+ This includes the consent form itself in addition to any other written 
+ pieces of information provided to support the consent and, if relevant, advertisements for recruitments used.
+-Financial Disclosure agreements
+-Insurance statements
+-Confidential Disclosure Agreement
+-1572
+-Signed agreements between involved parties – any agreement an investigator has with a sponsor, CRO and other authorities.
+-IRB review and approval
+-Regulatory authority approval of protocol
+-Curriculum Vitae – qualifications and eligibility to conduct the trial for all research personnel, including resumes and certifications.
+-Normal values and/or ranges of the tests
+-Instructions for investigational product and other trial-related materials handling
+-Shipping records for trial-related materials
+-Decoding procedures for blinded trials
+-Pre-trial monitoring report – documents that the site is suitable for the trial and that procedures have been reviewed with trial staff.
+```
+
+
