@@ -270,6 +270,22 @@ Prior to the on-site visit, any additional study specific activities as required
 
 The date, time and agenda of monitoring visit are confirmed with the site in a confirmation letter.
 
+EDC data review completed as required per Monitoring Guidelines.
+
+Perform review of new protocol deviations (PDs) identified since last contact/visit and any updates to previously reported PDs.
+```
+## How do you prepare for COV
+```
+All analytical reports are reviewed as required per Monitoring Guidelines (e.g., EDC Reports, IntraLinks
+access report, laboratory kit inventory, etc.)?
+
+Action Items (AIs)/outstanding issues from the previous visit or contact are reviewed?
+
+The date, time and agenda of the closure visit are confirmed with the site in a confirmation letter?
+```
+
+
+
 
 
 
