@@ -141,4 +141,18 @@ This form certifies that the study is registered in the national database of cli
 -Pre-trial monitoring report – documents that the site is suitable for the trial and that procedures have been reviewed with trial staff.
 ```
 
+## How do you review a DOA log?
+```
+Looking through it to make sure it provides a comprehensive list of study staff members 
+and the duties that have been delegated to them by the Principal Investigator.
 
+-Staff Name and Credentials, if applicable: 
+-Study Role
+-Study Specific Tasks
+-Staff Signature and Initials
+-Start Date of Responsibilities 
+-End Date of Responsibilities
+
+
+
+```
