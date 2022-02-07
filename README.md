@@ -170,3 +170,34 @@ Not all sections of the consent form were completed (i.e., check boxes unchecked
 
 Participant’s printed name missing on the form
 ```
+
+## Describe how you determine that the PI is managing the study properly 
+```
+You determine the PI is managing the study properly when he/she leads the conduct 
+of a clinical trial at a study site in compliance with GCP guidelines, 
+provides assurance that the rights, safety and well-being of trial participants are protected, 
+and that the results of the clinical trials are credible and accurate. 
+
+```
+## What is ALCOA. Describe with examples
+```
+Its a data integrity standard that ensures that data you are entering is correct and accurate and you will be able to tell who entered the data.
+
+Attributable - It should be obvious who documented or did what; traceable to a person, date, and subject visit.
+
+Legible - The Record should be easy to read and signatures identifiable
+
+Contemporaneous - The information should be documented as it happens
+
+Original - First record of the information or certified copy. The investigator should have the original source document.
+
+Accurate - Accurate, consistent and real representation of facts.
+
+Complete - The information should be complete (i.e., to answer who, what, when, where, why, and how).
+```
+## How do you perform SDV?
+```
+By doing a quality control check to ensure that source data 
+corresponds to entry in the EDC or case report form.
+```
+
