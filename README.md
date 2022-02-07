@@ -198,6 +198,6 @@ Complete - The information should be complete (i.e., to answer who, what, when, 
 ## How do you perform SDV?
 ```
 By doing a quality control check to ensure that source data 
-corresponds to entry in the EDC or case report form.
+corresponds to entries in the EDC or case report form.
 ```
 
