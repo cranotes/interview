@@ -200,4 +200,38 @@ Complete - The information should be complete (i.e., to answer who, what, when, 
 By doing a quality control check to ensure that source data 
 corresponds to entries in the EDC or case report form.
 ```
+## What is SDR? Describe SDR?
+```
+SDR means Source Data Review 
+It is the review of the source documentation to check on quality, protocol and GCP compliance
+```
+
+## How do you perform IP accountability
+```
+Drug accountability includes study drugs Storage, handling, dispensing and 
+documentation of administration, return and/or destruction of the drugs.
+
+It  is  good  practice  to  update  the  device  accountability  log  with relevant  information  immediately.   
+
+-Number of IP recieved from the sponsor.
+-Date when the IP is received.
+-Date when the IP is assigned to the subject.
+-How many pills were assigned to each subject.
+-Date of return of the IP.
+-How many pills/units of IP were returned
+-Ip thats returned to the sponsor/CRO at the end of the study and date.
+
+```
+## How do you prepare for PSSV?
+```
+Completed and documented the required protocol and compound training(s) prior to
+conducting the PSSV
+
+Ensure feasibility questionnaire(s) has been reviewed and considered prior to the visit.
+
+Ensure A signed Confidential Disclosure Agreement (CDA) is available.
+
+The date, time and agenda of PSSV are confirmed with the site in a confirmation letter.
+
+Is CTMS updated?
 
