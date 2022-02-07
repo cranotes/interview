@@ -8,3 +8,18 @@ Conducting visit, Pssv, imv and closing out the site.
 
 Currently have in the average 3 studies across 14 to 16 sites.
 ```
+
+## what Therauptic areas have you worked on?
+```
+Cardiovascular
+Opthalmology
+Neuroscience
+Respiratory
+Genitourinary
+Gastrointestinal
+Endocrinologyy
+Infectious Disease
+Hermatolog
+Oncology
+Dermotology(OTC)
+```
