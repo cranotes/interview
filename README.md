@@ -97,11 +97,30 @@ Life threatening
 Anything that PI feels is life threatening. 
 
 ```
+Informed Consent Document
+![Informed_Consent](https://user-images.githubusercontent.com/99203797/152904067-52b2795b-db0d-4dde-8bfd-9a3236eb1a8b.png)
+
 ## If a subject does not sign ICF what will you do? 
 ```
 I will ask the site to immediately contact the subject and have the subject come in to be re-consented. 
 At that time, the subject will have to sign and date the ICF. 
 All study procedures should be put on hold until the subject has signed the ICF. 
+```
+## What are common errors you come across when reviewing an Informed consent form
+```
+An unapproved/expired version of the consent form was used.
+
+The full consent form was not used (i.e., consent form is missing pages)
+
+Information in the consent was crossed out or altered in any way not approved by the IRB
+
+The person who obtained consent was not approved to do so per IRB-approved protocol
+
+All required signatures were not obtained3 (i.e., participant, person obtaining consent, parent, second parent if required, LAR, witness)
+
+Not all sections of the consent form were completed (i.e., check boxes unchecked, initials/signatures missing for optional procedures)
+
+Participant’s printed name missing on the form
 ```
 ## What is the monitor’s involvement in subject enrollment? 
 ```
@@ -166,23 +185,6 @@ and the duties that have been delegated to them by the Principal Investigator.
 -Staff Signature and Initials
 -Start Date of Responsibilities 
 -End Date of Responsibilities
-```
-
-## What are common errors you come across when reviewing an Informed consent form
-```
-An unapproved/expired version of the consent form was used.
-
-The full consent form was not used (i.e., consent form is missing pages)
-
-Information in the consent was crossed out or altered in any way not approved by the IRB
-
-The person who obtained consent was not approved to do so per IRB-approved protocol
-
-All required signatures were not obtained3 (i.e., participant, person obtaining consent, parent, second parent if required, LAR, witness)
-
-Not all sections of the consent form were completed (i.e., check boxes unchecked, initials/signatures missing for optional procedures)
-
-Participant’s printed name missing on the form
 ```
 
 ## Describe how you determine that the PI is managing the study properly 
@@ -313,13 +315,6 @@ The date, time and agenda of the closure visit are confirmed with the site in a 
 ![COV](https://user-images.githubusercontent.com/99203797/153010523-e910536d-8ed8-4b58-920f-948b4b0af118.png)
 ![COV2](https://user-images.githubusercontent.com/99203797/153010550-d04f2ac9-da89-4462-94e7-9a92f767de8c.png)
 ![COV3](https://user-images.githubusercontent.com/99203797/153010634-d5ef0c19-df42-4d16-8fd5-aee4bb7ed1c9.png)
-
-
-
-
-## Informed Consent
-![Informed_Consent](https://user-images.githubusercontent.com/99203797/152904067-52b2795b-db0d-4dde-8bfd-9a3236eb1a8b.png)
-
 
 ## How do you address a temperature excursion?
 ```
