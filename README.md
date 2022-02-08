@@ -70,6 +70,11 @@ Active known infection, including hepatitis B, hepatitis C, and human immunodefi
 Serious kidney injury, requiring dialysis
 Serious liver injury, and advanced liver diseases of Child-Pugh class B and C
 ```
+## Explain The clinical Trial Phases
+
+![Clinical_Trial_Phases](https://user-images.githubusercontent.com/99203797/153060165-d82cc841-9f30-4236-afbf-7860c4df3814.png)
+
+
 ## What is a monitoring plan? 
 ```
 The clinical monitoring plan basically sets out the monitoring strategies and the monitoring 
