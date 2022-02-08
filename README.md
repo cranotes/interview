@@ -1,5 +1,7 @@
 # Interview
 
+[GCP training website](https://gcp.nidatraining.org/)
+
 ## Tell me what you are doing right now?
 ```
 Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
@@ -305,6 +307,23 @@ The date, time and agenda of the closure visit are confirmed with the site in a 
 
 ## Informed Consent
 ![Informed_Consent](https://user-images.githubusercontent.com/99203797/152904067-52b2795b-db0d-4dde-8bfd-9a3236eb1a8b.png)
+
+
+## How do you address a temperature excursion?
+```
+ When any temperature reading is outside the recommended range.
+ 
+Steps for Handling Temperature Excursions
+Step 1: Notify Supervisors. ...
+Step 2: Quarantine Vaccines. ...
+Step 3: Document the Event. ...
+Step 4: Get Guidance. ...
+Step 5: Implement SOPs. ...
+Step 6: Wrap Up.
+
+```
+
+
 
 
 
