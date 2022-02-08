@@ -235,8 +235,12 @@ The date, time and agenda of PSSV are confirmed with the site in a confirmation 
 
 Is CTMS updated?
 ```
+![PSSV](https://user-images.githubusercontent.com/99203797/153009897-54138ceb-1c1f-4b31-bb3b-8f5f467e0512.png)
+
+
 ## How do you prepare for SIV
 ```
+
 Forward site staff training materials to study site.
 
 Has the Delegation of Authority (DOA) been provided to the site prior to the Site Initiation Visit (SIV).
@@ -259,6 +263,9 @@ initiation visit?
 The date, time and agenda of initiation visit are confirmed with the site in a confirmation letter?
 
 ```
+![SIV](https://user-images.githubusercontent.com/99203797/153010189-b2ea7adc-ca6f-41a1-af62-0e13f917482e.png)
+
+
 ## How do you prepare for IMV?
 ```
 Action items (AIs)/outstanding findings from the previous visit or contact reviewed.
@@ -274,6 +281,12 @@ EDC data review completed as required per Monitoring Guidelines.
 
 Perform review of new protocol deviations (PDs) identified since last contact/visit and any updates to previously reported PDs.
 ```
+![IMV](https://user-images.githubusercontent.com/99203797/153010315-45531259-4610-489f-b156-8681cb87554f.png)
+![IMV2](https://user-images.githubusercontent.com/99203797/153010357-c4eb3201-30d4-4563-b185-1368b598389d.png)
+![IMV3](https://user-images.githubusercontent.com/99203797/153010430-32b55d80-96ff-42ba-98ee-bc34093d5368.png)
+
+
+
 ## How do you prepare for COV
 ```
 All analytical reports are reviewed as required per Monitoring Guidelines (e.g., EDC Reports, IntraLinks
@@ -283,6 +296,12 @@ Action Items (AIs)/outstanding issues from the previous visit or contact are rev
 
 The date, time and agenda of the closure visit are confirmed with the site in a confirmation letter?
 ```
+![COV](https://user-images.githubusercontent.com/99203797/153010523-e910536d-8ed8-4b58-920f-948b4b0af118.png)
+![COV2](https://user-images.githubusercontent.com/99203797/153010550-d04f2ac9-da89-4462-94e7-9a92f767de8c.png)
+![COV3](https://user-images.githubusercontent.com/99203797/153010634-d5ef0c19-df42-4d16-8fd5-aee4bb7ed1c9.png)
+
+
+
 
 ## Informed Consent
 ![Informed_Consent](https://user-images.githubusercontent.com/99203797/152904067-52b2795b-db0d-4dde-8bfd-9a3236eb1a8b.png)
