@@ -12,6 +12,16 @@ Conducting visit, Pssv, imv and closing out the site.
 
 Currently have in the average 3 studies across 14 to 16 sites.
 ```
+## Why are you looking for another opportunity right now?
+```
+I feel like Changing company for the better
+
+Need a new home.
+
+Need a new place where i can have more team bonding.
+
+Now i just feel like a number because my present company is very large organisation.
+```
 
 ## what Therauptic areas have you worked on?
 ```
@@ -28,7 +38,7 @@ Oncology
 Dermotology(OTC)
 ```
 
-## What study are you currently working on
+## What study are you currently working on or what kind of indications are you currently working on?
 ```
 A Phase 1, interventional, Multi-center, Open-label, Single-arm, Dose-escalation, Clinical Study to Evaluate the Safety, 
 Tolerability, Pharmacokinetics and Anti-tumor Activity of FN-1501 Monotherapy in Patients With Advanced 
