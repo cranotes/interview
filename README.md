@@ -317,13 +317,38 @@ The date, time and agenda of the closure visit are confirmed with the site in a 
  
 Steps for Handling Temperature Excursions
 Step 1: Notify Supervisors. ...
-Step 2: Quarantine Vaccines. ...
+Step 2: Quarantine Investigational Drug. ...
 Step 3: Document the Event. ...
 Step 4: Get Guidance. ...
 Step 5: Implement SOPs. ...
 Step 6: Wrap Up.
 
 ```
+
+## What is an IRB?
+```
+An Institutional Review Board (IRB) is an independent body established 
+to protect the rights and welfare of human research participants.
+
+The purpose of an IRB is to safeguard the rights, 
+safety, and well–being of all human research participants. 
+```
+## Describe the types of IRB and Advantage of each?
+
+**Local IRBs** are affiliated with an institution, such as a hospital, university,
+medical center, or group of care facilities; thus, local IRBs are
+geographically close to and knowledgeable about the institutions,
+investigators, and community of potential subjects participating in
+the research. In most cases, an investigator who is affiliated with
+a specific institution must apply for approval from the local IRB
+associated with that same institution.
+
+**Independent IRBs**
+Not all institutions have IRBs; instead, some may arrange for an
+“outside” IRB to review research. These outside IRBs, which are not
+associated with any specific institution, are referred to as independent
+IRBs, central IRBs, or national IRBs.
+
 
 
 
