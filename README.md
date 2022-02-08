@@ -368,5 +368,12 @@ or worsen ("progress")** during treatment.
 
 ![CTCAE](https://user-images.githubusercontent.com/99203797/153054641-e2d85c8b-0e30-4fb0-bba3-a099b58280fc.png)
 
-
-
+## What is staging 
+```
+The stage of a cancer describes the size of a tumour 
+and how far it has spread from where it originated.
+```
+## What is grading
+```
+The grade describes the appearance of the cancerous cells.
+```
