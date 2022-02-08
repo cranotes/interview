@@ -368,6 +368,25 @@ or worsen ("progress")** during treatment.
 
 ![CTCAE](https://user-images.githubusercontent.com/99203797/153054641-e2d85c8b-0e30-4fb0-bba3-a099b58280fc.png)
 
+## What is ECOG?
+
+The ECOG(Eastern Cooperative Oncology Group )
+
+It describes a **patient's level of functioning** in terms of their ability to care for themself, 
+
+daily activity, and physical ability (walking, working, etc.).
+
+## What is KPS?
+
+ Also called **Karnofsky Performance Status**
+ 
+**A standard way of measuring the ability of cancer patients to perform ordinary tasks.** 
+
+KPS may be used to determine a patient's prognosis, 
+to measure changes in a patient's ability to function, 
+or to decide if a patient could be included in a clinical trial
+
+
 ## What is staging 
 ```
 The stage of a cancer describes the size of a tumour 
