@@ -98,6 +98,7 @@ Anything that PI feels is life threatening.
 
 ```
 Informed Consent Document
+
 ![Informed_Consent](https://user-images.githubusercontent.com/99203797/152904067-52b2795b-db0d-4dde-8bfd-9a3236eb1a8b.png)
 
 ## If a subject does not sign ICF what will you do? 
