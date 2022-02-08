@@ -2,6 +2,8 @@
 
 [GCP training website](https://gcp.nidatraining.org/)
 
+[Clinical Trials website](https://clinicaltrials.gov/)
+
 ## Tell me what you are doing right now?
 ```
 Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
