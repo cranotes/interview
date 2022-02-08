@@ -362,10 +362,7 @@ define when tumors in cancer patients **improve ("respond"),
 stay the same ("stabilize"), 
 or worsen ("progress")** during treatment.
 
-
-
-
-
+![RECIST](https://user-images.githubusercontent.com/99203797/153050225-a2775928-9086-4161-9270-3e296e3e3405.png)
 
 
 
