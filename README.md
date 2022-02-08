@@ -335,7 +335,9 @@ safety, and well–being of all human research participants.
 ```
 ## Describe the types of IRB and Advantage of each?
 
-**Local IRBs** are affiliated with an institution, such as a hospital, university,
+**Local IRBs** 
+
+Are affiliated with an institution, such as a hospital, university,
 medical center, or group of care facilities; thus, local IRBs are
 geographically close to and knowledgeable about the institutions,
 investigators, and community of potential subjects participating in
@@ -344,6 +346,7 @@ a specific institution must apply for approval from the local IRB
 associated with that same institution.
 
 **Independent IRBs**
+
 Not all institutions have IRBs; instead, some may arrange for an
 “outside” IRB to review research. These outside IRBs, which are not
 associated with any specific institution, are referred to as independent
