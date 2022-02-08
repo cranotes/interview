@@ -284,16 +284,12 @@ Action Items (AIs)/outstanding issues from the previous visit or contact are rev
 The date, time and agenda of the closure visit are confirmed with the site in a confirmation letter?
 ```
 
+## Informed Consent
+![Informed_Consent](https://user-images.githubusercontent.com/99203797/152904067-52b2795b-db0d-4dde-8bfd-9a3236eb1a8b.png)
 
 
 
 
-
-
-
-
-
-```
 
 
 
