@@ -259,7 +259,7 @@ This form certifies that the study is registered in the national database of cli
 </details>
 
 <details>
-   <summary>How do you review a DOA lo</summary>
+   <summary>How do you review a DOA log</summary>
    
 ## How do you review a DOA log?
 ```
@@ -278,45 +278,8 @@ and the duties that have been delegated to them by the Principal Investigator.
 </details>
 
 <details>
-   <summary> 2 </summary>
+   <summary>Describe how you determine that the PI is managing the study properly</summary>
    
-
-</details>
-
-<details>
-   <summary> 2 </summary>
-   
-
-</details>
-
-<details>
-   <summary> 2 </summary>
-   
-
-</details>
-
-<details>
-   <summary> 2 </summary>
-   
-
-</details>
-
-<details>
-   <summary> 2 </summary>
-   
-
-</details>
-   
-
-
-
-
-
-
-
-
-
-
 ## Describe how you determine that the PI is managing the study properly 
 ```
 You determine the PI is managing the study properly when he/she leads the conduct 
@@ -325,6 +288,13 @@ provides assurance that the rights, safety and well-being of trial participants 
 and that the results of the clinical trials are credible and accurate. 
 
 ```
+   
+
+</details>
+
+<details>
+   <summary>What is ALCOA. Describe with examples</summary>
+   
 ## What is ALCOA. Describe with examples
 ```
 Its a data integrity standard that ensures that data you are entering is correct and accurate and you will be able to tell who entered the data.
@@ -341,16 +311,35 @@ Accurate - Accurate, consistent and real representation of facts.
 
 Complete - The information should be complete (i.e., to answer who, what, when, where, why, and how).
 ```
+   
+
+</details>
+
+<details>
+   <summary>How do you perform SDV?</summary>
+   
 ## How do you perform SDV?
 ```
 By doing a quality control check to ensure that source data 
 corresponds to entries in the EDC or case report form.
 ```
+   
+
+</details>
+
+<details>
+   <summary>What is SDR? Describe SDR?</summary>
+   
 ## What is SDR? Describe SDR?
 ```
 SDR means Source Data Review 
 It is the review of the source documentation to check on quality, protocol and GCP compliance
 ```
+
+</details>
+
+<details>
+   <summary>How do you perform IP accountability</summary>
 
 ## How do you perform IP accountability
 ```
@@ -368,6 +357,13 @@ It  is  good  practice  to  update  the  device  accountability  log  with relev
 -Ip thats returned to the sponsor/CRO at the end of the study and date.
 
 ```
+   
+
+</details>
+
+<details>
+   <summary>PSSV, SIV, IMV, COV QUESTIONS</summary>
+   
 ## How do you prepare for PSSV?
 ```
 Completed and documented the required protocol and compound training(s) prior to
@@ -445,6 +441,50 @@ The date, time and agenda of the closure visit are confirmed with the site in a 
 ![COV](https://user-images.githubusercontent.com/99203797/153010523-e910536d-8ed8-4b58-920f-948b4b0af118.png)
 ![COV2](https://user-images.githubusercontent.com/99203797/153010550-d04f2ac9-da89-4462-94e7-9a92f767de8c.png)
 ![COV3](https://user-images.githubusercontent.com/99203797/153010634-d5ef0c19-df42-4d16-8fd5-aee4bb7ed1c9.png)
+
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## How do you address a temperature excursion?
 ```
