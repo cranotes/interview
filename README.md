@@ -121,7 +121,7 @@ There is also usually an area of focus in the monitoring plan that goes over pro
 SAE reporting, safety, adverse event reporting, quality assurance, and site assessment. 
 
 ```
-<details>
+</details>
 
 ## What is an SAE and what are the 6 criteria that determine an SAE?
 ```
