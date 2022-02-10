@@ -124,7 +124,21 @@ SAE reporting, safety, adverse event reporting, quality assurance, and site asse
 </details>
 
 <details>
-   <summary> 1 </summary>
+   <summary>What is an SAE and what are the 6 criteria that determine an SAE?</summary>
+   
+## An SAE is any untoward medical occurrence that could lead to any of the following:
+
+Hospitalization or prolong an existing hospitalization
+   
+Death
+   
+Birth Defect /Congenital Anomaly
+   
+Disability
+   
+Life threatening 
+   
+Anything that PI feels is life threatening. 
    
 
 </details>
@@ -138,7 +152,7 @@ SAE reporting, safety, adverse event reporting, quality assurance, and site asse
    
 
 
-## What is an SAE and what are the 6 criteria that determine an SAE?
+## 
 ```
 An SAE is any untoward medical occurrence that could lead to any of the following:
 
