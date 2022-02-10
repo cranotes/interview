@@ -145,6 +145,30 @@ Anything that PI feels is life threatening.
 
 
 <details>
+   <summary>What is SUSAR</summary>
+![SUSAR](https://user-images.githubusercontent.com/99203797/153067127-8e2a1c81-b0dd-41fc-8741-f80e631285fc.png)   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
    <summary> 2 </summary>
    
 
@@ -152,21 +176,8 @@ Anything that PI feels is life threatening.
    
 
 
-## 
-```
-An SAE is any untoward medical occurrence that could lead to any of the following:
 
-Hospitalization or prolong an existing hospitalization
-Death
-Birth Defect /Congenital Anomaly
-Disability
-Life threatening 
-Anything that PI feels is life threatening. 
 
-```
-## What is SUSAR
-
-![SUSAR](https://user-images.githubusercontent.com/99203797/153067127-8e2a1c81-b0dd-41fc-8741-f80e631285fc.png)
 
 
 Informed Consent Document
