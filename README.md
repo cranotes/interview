@@ -4,6 +4,8 @@
 
 [Clinical Trials website](https://clinicaltrials.gov/)
 
+[The Clinical Trial Manual Handbook](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.uaar.edu.pk%2Ffs%2Fbooks%2F15.pdf&chunk=true)
+
 ## Tell me what you are doing right now?
 ```
 Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
