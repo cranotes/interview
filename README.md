@@ -195,7 +195,9 @@ I usually complete about 50 percent of my report on site. After I leave the site
 I complete the remainder of my report in the plane or when I get to my hotel. 
 As a result I usually have my report in within the 2nd or 3rd business day and finalized by the 5th business day.
    
-Have you ever missed a deadline? NO
+Have you ever missed a deadline? 
+
+No, I am very organized and as a result I have never missed a deadline.
    
 ```
 
