@@ -13,7 +13,7 @@
    <summary>Tell me what you are doing right now?</summary>
           
 ```
-Right now i'm a site monitor. **I'm responsible** for my assigned site in respect to site managment. 
+Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
 
 Conducting visit, Pssv, siv, imv and closing out the site. 
 
