@@ -259,95 +259,8 @@ This form certifies that the study is registered in the national database of cli
 </details>
 
 <details>
-   <summary> 2 </summary>
+   <summary>How do you review a DOA lo</summary>
    
-
-</details>
-   
-
-
-
-
-
-
-Informed Consent Document
-
-
-
-## If a subject does not sign ICF what will you do? 
-```
-I will ask the site to immediately contact the subject and have the subject come in to be re-consented. 
-At that time, the subject will have to sign and date the ICF. 
-All study procedures should be put on hold until the subject has signed the ICF. 
-```
-## What are common errors you come across when reviewing an Informed consent form
-```
-An unapproved/expired version of the consent form was used.
-
-The full consent form was not used (i.e., consent form is missing pages)
-
-Information in the consent was crossed out or altered in any way not approved by the IRB
-
-The person who obtained consent was not approved to do so per IRB-approved protocol
-
-All required signatures were not obtained3 (i.e., participant, person obtaining consent, parent, second parent if required, LAR, witness)
-
-Not all sections of the consent form were completed (i.e., check boxes unchecked, initials/signatures missing for optional procedures)
-
-Participant’s printed name missing on the form
-```
-## What is the monitor’s involvement in subject enrollment? 
-```
-The monitor helps the site whenever they are not enrolling enough patients for the study. 
-They can help by providing advice on ways to recruit like advertisement methods, 
-or subject reach out to subjects in the sites database that have the indication or had a past history of the indication. 
-Once a subject is enrolled, the monitor is to go out to the site 
-and review the data of the subject to ensure they are actually eligible for the study. 
-```
-## What is FDA 1571: 
-```
-The 1571 is the Investigational New Drug Application. 
-It provides the structure to present the information about the proposed research.
-```
-## What is FDA 1572? 
-```
-The 1572 is the statement of investigator form, 
-it is an agreement signed by the investigator to provide certain information to the sponsor 
-and assure that he/she will comply with FDA regulations related to 
-the conduct of the clinical investigation of an investigation drug or biologic. 
-```
-## What is a FDA 483? 
-```
-483s are usually issued whenever there is an FDA inspection at a site and there are major findings. 
-If major findings are found during the audit inspection, the FDA will issue a 483. 
-```
-## What is FDA 3674: 
-```
-This form certifies that the study is registered in the national database of clinical trials
-```
-
-## Name 10 essential documents found in the Investigator Site File (ISF)
-```
--Investigator’s Brochure (IB) – outlines scientific information about the investigational product.
--Study protocol – this includes the current protocol as well as any amendments and historical protocols.
--Informed consent documentation – any information given to the trial subject (patient). 
- This includes the consent form itself in addition to any other written 
- pieces of information provided to support the consent and, if relevant, advertisements for recruitments used.
--Financial Disclosure agreements
--Insurance statements
--Confidential Disclosure Agreement
--1572
--Signed agreements between involved parties – any agreement an investigator has with a sponsor, CRO and other authorities.
--IRB review and approval
--Regulatory authority approval of protocol
--Curriculum Vitae – qualifications and eligibility to conduct the trial for all research personnel, including resumes and certifications.
--Normal values and/or ranges of the tests
--Instructions for investigational product and other trial-related materials handling
--Shipping records for trial-related materials
--Decoding procedures for blinded trials
--Pre-trial monitoring report – documents that the site is suitable for the trial and that procedures have been reviewed with trial staff.
-```
-
 ## How do you review a DOA log?
 ```
 Looking through it to make sure it provides a comprehensive list of study staff members 
@@ -360,6 +273,49 @@ and the duties that have been delegated to them by the Principal Investigator.
 -Start Date of Responsibilities 
 -End Date of Responsibilities
 ```
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+   
+
+
+
+
+
+
+
+
+
 
 ## Describe how you determine that the PI is managing the study properly 
 ```
