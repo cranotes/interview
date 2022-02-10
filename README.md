@@ -123,6 +123,21 @@ SAE reporting, safety, adverse event reporting, quality assurance, and site asse
 ```
 </details>
 
+<details>
+   <summary> 1 </summary>
+   
+
+</details>
+
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+   
+
+
 ## What is an SAE and what are the 6 criteria that determine an SAE?
 ```
 An SAE is any untoward medical occurrence that could lead to any of the following:
