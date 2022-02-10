@@ -102,8 +102,13 @@ Serious liver injury, and advanced liver diseases of Child-Pugh class B and C
 </details>
 
 
-## What is a monitoring plan? 
+<details>
+
+
+<summary>What is a monitoring plan? </summary>
+   
 ```
+   
 The clinical monitoring plan basically sets out the monitoring strategies and the monitoring 
 responsibilities of all parties involved in the clinical trial. 
 It also stipulates the frequency of visits, various monitoring methods to be used, 
@@ -116,6 +121,7 @@ There is also usually an area of focus in the monitoring plan that goes over pro
 SAE reporting, safety, adverse event reporting, quality assurance, and site assessment. 
 
 ```
+<details>
 
 ## What is an SAE and what are the 6 criteria that determine an SAE?
 ```
