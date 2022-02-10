@@ -112,6 +112,7 @@ Your company also loves to promote from within and that is something that I am l
 
 <details>
    <summary>what Therauptic areas have you worked on?</summary>
+   
 ```
 Cardiovascular
 Opthalmology
@@ -124,6 +125,7 @@ Infectious Disease
 Hermatolog
 Oncology
 Dermotology(OTC)
+   
 ```
    
 ![Therapeutic Indications](images/Therapatic_Indications.png)
