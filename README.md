@@ -447,45 +447,8 @@ The date, time and agenda of the closure visit are confirmed with the site in a 
 </details>
 
 <details>
-   <summary> 2 </summary>
+   <summary>How do you address a temperature excursion?</summary>
    
-
-</details>
-
-<details>
-   <summary> 2 </summary>
-   
-
-</details>
-
-<details>
-   <summary> 2 </summary>
-   
-
-</details>
-
-<details>
-   <summary> 2 </summary>
-   
-
-</details>
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## How do you address a temperature excursion?
 ```
  When any temperature reading is outside the recommended range.
@@ -499,7 +462,13 @@ Step 5: Implement SOPs. ...
 Step 6: Wrap Up.
 
 ```
+   
 
+</details>
+
+<details>
+   <summary>What is an IRB and the types of IRB?</summary>
+   
 ## What is an IRB?
 ```
 An Institutional Review Board (IRB) is an independent body established 
@@ -527,8 +496,14 @@ Not all institutions have IRBs; instead, some may arrange for an
 associated with any specific institution, are referred to as independent
 IRBs, central IRBs, or national IRBs.
 
+   
 
-# Oncology Questions
+</details>
+
+<details>
+   <summary>Oncology Questions(What is CTCAE and its grading, What is RECIST and what version do you use, What is ECOG?, KPS?, Staging and grading in Cancer?</summary>
+   
+# Oncology Questions(What is CTCAE and its grading, What is RECIST and what version do you use, What is ECOG?, KPS?, Staging and grading in Cancer?
 
 ## What is RECIST and what version do you use?
 
@@ -571,3 +546,34 @@ and how far it has spread from where it originated.
 ```
 The grade describes the appearance of the cancerous cells.
 ```
+   
+
+</details>
+
+<details>
+   <summary> 2 </summary>
+   
+
+</details>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
