@@ -14,6 +14,15 @@ Conducting visit, Pssv, siv, imv and closing out the site.
 
 Currently have in the average 3 studies across 14 to 16 sites.
 ```
+
+<details>
+          <summary>Click to expand!</summary>
+          
+            ## More great tips!
+
+            - item 1 
+            - item 2
+        </details>
 ## Why are you looking for another opportunity right now?
 ```
 I feel like Changing company for the better
