@@ -129,6 +129,8 @@ Dermotology(OTC)
 ```
    
 ![Therapeutic Indications](images/Therapatic_Indications.png)
+   
+   
 </details>
 
 
