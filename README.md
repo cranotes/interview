@@ -47,6 +47,53 @@ so I am looking for a company that I can grow with and make that transition.
 </details>
 
 <details>
+   <summary>What type of training did you take to become a CRA?,  What is the main role of a CRA? Tell me something you are most proud of in your career to date? What is your process for trip report submissions? </summary>
+   
+### What type of training did you take to become a CRA? 
+
+CRA bridge program / Ace program or PACE program.
+
+### What is the main role of a CRA? 
+
+The main function of a clinical research associate is to monitor clinical trials and assure the protection of the rights, safety, and wellbeing of human study subjects. CRAs also ensure that accurate data is generated from the trial?  How do you get your reports in on time? Have you ever attended an IM(Investigator meeting) or presented?  .
+
+### Tell me something you are most proud of in your career to date? 
+
+ANS 1: I am most proud of the fact that I have a 100% compliance rate when it comes to trip report writing. I have never submitted a late trip report. 
+ANS 2: I am most proud of the relationships I have built with my sites throughout my career as a CRA. I have a great relationship with several of my sites. 
+
+### What sites do you work with? Some of my sites are as follows;
+
+MD Anderson, Dana Farber, Sarah Cannon, UCLA, University of Birmingham, Mayo Clinic, University of Colorado, Emory University, Piedmont Hospital, University of Wisconsin, John Hopkins University, UT Southwestern, Rutgers, Memorial Sloan Kettering Center, Vanderbilt University.
+
+### What is your process for trip report submissions? 
+
+The draft is due in 5 business days and the final is due in 5 business days. 
+So we have a total of 10 business days for finalization to approval.
+
+### How do you get your reports in on time? 
+
+I always start my report while I am on site. I do that because the information is still fresh in my head. With that I usually have about 50% of the report done on site. I finish up the report once I leave the site in my hotel room or on the plane ride back home. With this habit, I usually have my draft in by the 2nd or 3rd business day. 
+
+### Have you ever attended an IM(Investigator meeting) or presented? 
+   
+```   
+
+I have attended several IMs but I have never presented at an IM before. 
+
+Am IM is nothing but a group meeting conducted on behalf of sponsor/CROs 
+   
+to train investigators and their lead clinical trial staff on trial related activities, 
+   
+standard operating procedures and to discuss the applicable regulatory picture.
+```
+   
+
+</details>
+   
+
+
+<details>
    <summary>What do you know about our company?</summary>
    
 ## What do you know about our company?
@@ -78,6 +125,8 @@ Hermatolog
 Oncology
 Dermotology(OTC)
 ```
+   
+![Therapeutic Indications](images/Therapatic_Indications.png)
 </details>
 
 
@@ -149,6 +198,26 @@ SAE reporting, safety, adverse event reporting, quality assurance, and site asse
 
 ```
 </details>
+
+<details>
+   <summary>EDC, CTMS, IWRS, TMF</summary>
+   
+What EDC systems have you worked with? **DataLabs, Inform, and Medidata**
+What CTMS systems have you worked with? **Impact, Infolink 2, RightTrack, and eclinical**
+What IWRS system have you used?
+Are you familiar with TMF? Yes
+What Trial Master File (TMF) does your company currently use? We just call it a TMF.
+   
+```
+Interactive Web Response Systems (IWRS) and Interactive Voice Response Systems (IVRS) 
+are the technologies that research sites use to enroll patients into clinical trials, randomize patients, 
+and manage study drug supplies. 
+```
+
+   
+
+</details>
+   
 
 <details>
    <summary>What is an SAE and what are the 6 criteria that determine an SAE?</summary>
