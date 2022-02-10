@@ -22,7 +22,7 @@ Currently have in the average 3 studies across 14 to 16 sites.
 
             - item 1 
             - item 2
-        </details>
+</details>
 ## Why are you looking for another opportunity right now?
 ```
 I feel like Changing company for the better
