@@ -37,7 +37,7 @@ Now i just feel like a number because my present company is very large organisat
 </details>
 
 <details>
-   <summary## what Therauptic areas have you worked on?</summary
+   <summary>what Therauptic areas have you worked on?</summary>
 ```
 Cardiovascular
 Opthalmology
