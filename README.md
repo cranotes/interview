@@ -21,7 +21,8 @@ Currently have in the average 3 studies across 14 to 16 sites.
 ```
 </details>
 
-## Why are you looking for another opportunity right now?
+<details>
+<summary>## Why are you looking for another opportunity right now?</summary>
 ```
 I feel like Changing company for the better
 
@@ -31,6 +32,7 @@ Need a new place where i can have more team bonding.
 
 Now i just feel like a number because my present company is very large organisation.
 ```
+</details>
 
 ## what Therauptic areas have you worked on?
 ```
