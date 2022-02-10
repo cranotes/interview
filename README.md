@@ -47,6 +47,23 @@ so I am looking for a company that I can grow with and make that transition.
 </details>
 
 <details>
+   <summary>What do you know about our company?</summary>
+   
+## What do you know about our company?
+   
+```
+Answer: Your Company has a strong reputation in the clinical research industry. 
+They have a track record of utilizing cutting edge technology and innovative medical 
+knowledge to develop solutions to unmet medical needs.  
+I also love the fact that your company takes the training of their CRAs very seriously. 
+Your company also loves to promote from within and that is something that I am looking for. 
+
+```   
+
+</details>
+   
+
+<details>
    <summary>what Therauptic areas have you worked on?</summary>
 ```
 Cardiovascular
