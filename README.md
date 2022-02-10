@@ -182,7 +182,8 @@ Serious liver injury, and advanced liver diseases of Child-Pugh class B and C
 
 <details>
    <summary>Trip report timeline</summary>
-``
+   
+```
 What is your current trip report timeline? 
 
 The draft report is due in 5 business days and the final report is due in 10 business days.
