@@ -36,8 +36,8 @@ Now i just feel like a number because my present company is very large organisat
 ```
 </details>
 
-
-## what Therauptic areas have you worked on?
+<details>
+   <summary## what Therauptic areas have you worked on?</summary
 ```
 Cardiovascular
 Opthalmology
@@ -51,6 +51,8 @@ Hermatolog
 Oncology
 Dermotology(OTC)
 ```
+</details>
+
 
 ## What study are you currently working on or what kind of indications are you currently working on?
 ```
