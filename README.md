@@ -4,7 +4,7 @@
 
 [Clinical Trials website](https://clinicaltrials.gov/)
 
-[The Clinical Trial Manual Handbook](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.uaar.edu.pk%2Ffs%2Fbooks%2F15.pdf&chunk=true)
+[The Clinical Trial Manual Handbook](https://www.uaar.edu.pk/fs/books/15.pdf)
 
 ## Tell me what you are doing right now?
 ```
