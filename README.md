@@ -55,7 +55,9 @@ Dermotology(OTC)
 
 
 <details>
+   
    <summary>What study are you currently working on or what kind of indications are you currently working on?</summary>
+   
 ```
 A Phase 1, interventional, Multi-center, Open-label, Single-arm, Dose-escalation, Clinical Study to Evaluate the Safety, 
 Tolerability, Pharmacokinetics and Anti-tumor Activity of FN-1501 Monotherapy in Patients With Advanced 
