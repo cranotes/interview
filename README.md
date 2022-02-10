@@ -180,6 +180,27 @@ Serious liver injury, and advanced liver diseases of Child-Pugh class B and C
 
 </details>
 
+<details>
+   <summary>Trip report timeline</summary>
+``
+What is your current trip report timeline? 
+
+The draft report is due in 5 business days and the final report is due in 10 business days.
+   
+How good are you with meeting up with your trip report timelines? 
+   
+I am very good with meeting up with my trip report timelines. 
+I tend to start my report when I am on site. 
+I usually complete about 50 percent of my report on site. After I leave the site, 
+I complete the remainder of my report in the plane or when I get to my hotel. 
+As a result I usually have my report in within the 2nd or 3rd business day and finalized by the 5th business day.
+   
+Have you ever missed a deadline? NO
+   
+```
+
+</details>
+
 
 <details>
 
