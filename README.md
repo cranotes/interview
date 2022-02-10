@@ -7,6 +7,11 @@
 [The Clinical Trial Manual Handbook](https://www.uaar.edu.pk/fs/books/15.pdf)
 
 ## Tell me what you are doing right now?
+
+
+<details>
+   <summary>Tell me what you are doing right now?</summary>
+          
 ```
 Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
 
@@ -14,14 +19,6 @@ Conducting visit, Pssv, siv, imv and closing out the site.
 
 Currently have in the average 3 studies across 14 to 16 sites.
 ```
-
-<details>
-          <summary>Click to expand!</summary>
-          
-            ## More great tips!
-
-            - item 1 
-            - item 2
 </details>
 
 ## Why are you looking for another opportunity right now?
