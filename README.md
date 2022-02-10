@@ -206,10 +206,14 @@ SAE reporting, safety, adverse event reporting, quality assurance, and site asse
    <summary>EDC, CTMS, IWRS, TMF</summary>
    
 What EDC systems have you worked with? **DataLabs, Inform, and Medidata**
+   
 What CTMS systems have you worked with? **Impact, Infolink 2, RightTrack, and eclinical**
+   
 What IWRS system have you used?
+   
 Are you familiar with TMF? Yes
-What Trial Master File (TMF) does your company currently use? We just call it a TMF.
+   
+What Trial Master File (TMF) does your company currently use? **We just call it a TMF.**
    
 ```
 Interactive Web Response Systems (IWRS) and Interactive Voice Response Systems (IVRS) 
