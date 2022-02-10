@@ -33,6 +33,16 @@ Need a new home.
 Need a new place where i can have more team bonding.
 
 Now i just feel like a number because my present company is very large organisation.
+   
+-------------------------------------------------
+   
+I am currently looking for a new monitoring opportunity because I am looking for a company 
+that I can see myself with long term. I am looking for a company that will afford me the opportunity 
+to grow both personally and professionally. I also understand that your company promotes from within, 
+and I am looking for a company where I can develop my career. 
+I would like to work in a management capacity in the next 5-10 years 
+so I am looking for a company that I can grow with and make that transition.
+   
 ```
 </details>
 
