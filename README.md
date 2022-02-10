@@ -54,7 +54,8 @@ Dermotology(OTC)
 </details>
 
 
-## What study are you currently working on or what kind of indications are you currently working on?
+<details>
+   <summary>What study are you currently working on or what kind of indications are you currently working on?</summary>
 ```
 A Phase 1, interventional, Multi-center, Open-label, Single-arm, Dose-escalation, Clinical Study to Evaluate the Safety, 
 Tolerability, Pharmacokinetics and Anti-tumor Activity of FN-1501 Monotherapy in Patients With Advanced 
@@ -86,6 +87,9 @@ Active known infection, including hepatitis B, hepatitis C, and human immunodefi
 Serious kidney injury, requiring dialysis
 Serious liver injury, and advanced liver diseases of Child-Pugh class B and C
 ```
+</details>
+
+
 ## Explain The clinical Trial Phases
 
 ![Clinical_Trial_Phases](https://user-images.githubusercontent.com/99203797/153060165-d82cc841-9f30-4236-afbf-7860c4df3814.png)
