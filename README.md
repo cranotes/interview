@@ -6,14 +6,14 @@
 
 [The Clinical Trial Manual Handbook](https://www.uaar.edu.pk/fs/books/15.pdf)
 
-## Tell me what you are doing right now?
+
 
 
 <details>
    <summary>Tell me what you are doing right now?</summary>
           
 ```
-Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
+Right now i'm a site monitor. **I'm responsible** for my assigned site in respect to site managment. 
 
 Conducting visit, Pssv, siv, imv and closing out the site. 
 
