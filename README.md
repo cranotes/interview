@@ -146,6 +146,7 @@ Anything that PI feels is life threatening.
 
 <details>
    <summary>What is SUSAR</summary>
+   
 ![SUSAR](https://user-images.githubusercontent.com/99203797/153067127-8e2a1c81-b0dd-41fc-8741-f80e631285fc.png)   
 
 </details>
