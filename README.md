@@ -406,7 +406,7 @@ and the duties that have been delegated to them by the Principal Investigator.
 </details>
 
 <details>
-   <summary>Describe how you determine that the PI is managing the study properly</summary>
+   <summary>PI Oversight/Describe how you determine that the PI is managing the study properly</summary>
    
 ## Describe how you determine that the PI is managing the study properly 
 ```
@@ -414,6 +414,12 @@ You determine the PI is managing the study properly when he/she leads the conduc
 of a clinical trial at a study site in compliance with GCP guidelines, 
 provides assurance that the rights, safety and well-being of trial participants are protected, 
 and that the results of the clinical trials are credible and accurate. 
+---------------------------------------------
+   
+The PI maintains a list of appropiately qualified persons to whom the investigator delegate significantly trial related duties(DOA log).
+The PI is also reponsible for supervising any individaul or part to whom they delegate trial related duties and functions conducted at the site.
+He or she is reponsible for overseeing all site related activities.
+Evidence of PI involvement.
 
 ```
    
