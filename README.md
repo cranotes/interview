@@ -47,7 +47,7 @@ so I am looking for a company that I can grow with and make that transition.
 </details>
 
 <details>
-   <summary>What type of training did you take to become a CRA?,  What is the main role of a CRA? Tell me something you are most proud of in your career to date? What is your process for trip report submissions? </summary>
+   <summary>What type of training did you take to become a CRA?,  What is the main role of a CRA? Tell me something you are most proud of in your career to date? What is your process for report submissions? </summary>
    
 ### What type of training did you take to become a CRA? 
 
@@ -183,12 +183,12 @@ Serious liver injury, and advanced liver diseases of Child-Pugh class B and C
 <details>
    <summary>Trip report timeline</summary>
    
-```
-What is your current trip report timeline? 
+
+### What is your current trip report timeline? 
 
 The draft report is due in 5 business days and the final report is due in 10 business days.
    
-How good are you with meeting up with your trip report timelines? 
+### How good are you with meeting up with your trip report timelines? 
    
 I am very good with meeting up with my trip report timelines. 
 I tend to start my report when I am on site. 
@@ -205,11 +205,10 @@ So we have a total of 10 business days for finalization to approval.
 
 I always start my report while I am on site. I do that because the information is still fresh in my head. With that I usually have about 50% of the report done on site. I finish up the report once I leave the site in my hotel room or on the plane ride back home. With this habit, I usually have my draft in by the 2nd or 3rd business day. 
    
-Have you ever missed a deadline? 
+### Have you ever missed a deadline? 
 
 No, I am very organized and as a result I have never missed a deadline.
    
-```
 
 </details>
 
