@@ -307,7 +307,8 @@ Anything that PI feels is life threatening.
 
 <details>
    <summary>What are common errors you come across when reviewing an Informed consent form</summary>
-   
+ 
+ ```
 An unapproved/expired version of the consent form was used.
 
 The full consent form was not used (i.e., consent form is missing pages)
@@ -322,11 +323,13 @@ Not all sections of the consent form were completed (i.e., check boxes unchecked
 
 Participant’s printed name missing on the form
    
-
+```
 </details>
 
 <details>
    <summary>What is the monitor’s involvement in subject enrollment?</summary>
+   
+```
    
 The monitor helps the site whenever they are not enrolling enough patients for the study. 
 They can help by providing advice on ways to recruit like advertisement methods, 
@@ -334,7 +337,7 @@ or subject reach out to subjects in the sites database that have the indication 
 Once a subject is enrolled, the monitor is to go out to the site 
 and review the data of the subject to ensure they are actually eligible for the study.
    
-   
+```   
    
 
 </details>
