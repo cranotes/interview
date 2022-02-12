@@ -13,11 +13,11 @@
    <summary>Tell me what you are doing right now?</summary>    
           
 
-**Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
+### Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
 
 Conducting visit, Pssv, siv, imv and closing out the site. 
 
-Currently have in the average 3 studies across 14 to 16 sites.**
+Currently have in the average 3 studies across 14 to 16 sites.
 
 </details>
 
