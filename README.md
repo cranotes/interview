@@ -10,7 +10,7 @@
 
 
 <details>
-   <summary>Tell me what you are doing right now?</summary>
+   <summary>Tell me what you are doing right now?</summary>    **Tell**
           
 ```
 Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
