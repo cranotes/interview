@@ -298,9 +298,9 @@ Anything that PI feels is life threatening.
 <details>
    <summary>If a subject does not sign ICF what will you do?</summary>
    
-I will ask the site to immediately contact the subject and have the subject come in to be re-consented. 
-At that time, the subject will have to sign and date the ICF. 
-All study procedures should be put on hold until the subject has signed the ICF.
+### I will ask the site to immediately contact the subject and have the subject come in to be re-consented. 
+### At that time, the subject will have to sign and date the ICF. 
+### All study procedures should be put on hold until the subject has signed the ICF.
    
 
 </details>
