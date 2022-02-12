@@ -196,6 +196,15 @@ I usually complete about 50 percent of my report on site. After I leave the site
 I complete the remainder of my report in the plane or when I get to my hotel. 
 As a result I usually have my report in within the 2nd or 3rd business day and finalized by the 5th business day.
    
+### What is your process for trip report submissions? 
+
+The draft is due in 5 business days and the final is due in 5 business days. 
+So we have a total of 10 business days for finalization to approval.
+
+### How do you get your reports in on time? 
+
+I always start my report while I am on site. I do that because the information is still fresh in my head. With that I usually have about 50% of the report done on site. I finish up the report once I leave the site in my hotel room or on the plane ride back home. With this habit, I usually have my draft in by the 2nd or 3rd business day. 
+   
 Have you ever missed a deadline? 
 
 No, I am very organized and as a result I have never missed a deadline.
