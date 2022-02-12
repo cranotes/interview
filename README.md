@@ -527,7 +527,8 @@ Is CTMS updated?
 
 ## How do you prepare for SIV
 ```
-
+Prepare and agenda for the SIV visit.
+   
 Forward site staff training materials to study site.
 
 Has the Delegation of Authority (DOA) been provided to the site prior to the Site Initiation Visit (SIV).
