@@ -15,9 +15,9 @@
 
 ### Right now i'm a site monitor. I'm responsible for my assigned site in respect to site managment. 
 
-Conducting visit, Pssv, siv, imv and closing out the site. 
+### Conducting visit, Pssv, siv, imv and closing out the site. 
 
-Currently have in the average 3 studies across 14 to 16 sites.
+### Currently have in the average 3 studies across 14 to 16 sites.
 
 </details>
 
@@ -25,17 +25,17 @@ Currently have in the average 3 studies across 14 to 16 sites.
 <details>
    <summary>Why are you looking for another opportunity right now?</summary>
    
-```
-I feel like Changing company for the better
 
-Need a new home.
+### I feel like Changing company for the better
 
-Need a new place where i can have more team bonding.
+### Need a new home.
 
-Now i just feel like a number because my present company is very large organisation.
+### Need a new place where i can have more team bonding.
+
+### Now i just feel like a number because my present company is very large organisation.
    
 -------------------------------------------------
-   
+```   
 I am currently looking for a new monitoring opportunity because I am looking for a company 
 that I can see myself with long term. I am looking for a company that will afford me the opportunity 
 to grow both personally and professionally. I also understand that your company promotes from within, 
